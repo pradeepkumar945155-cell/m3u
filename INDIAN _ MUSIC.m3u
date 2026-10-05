@@ -1,0 +1,81 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="zoom.in" tvg-name="IN | Zoom TV" tvg-logo="https://static.epg.best/in/Zoom.in.png" group-title="INDIAN | MUSIC",IN | Zoom TV
+http://xott.live:8080/z1697502/2057961z/66190
+#EXTINF:-1 tvg-id="9xm.in" tvg-name="IN | 9xm" tvg-logo="https://static.epg.best/in/9XM.in.png" group-title="INDIAN | MUSIC",IN | 9xm
+http://xott.live:8080/z1697502/2057961z/66192
+#EXTINF:-1 tvg-id="" tvg-name="IN | B4u Music" tvg-logo="https://static.epg.best/in/B4UMusic.in.png" group-title="INDIAN | MUSIC",IN | B4u Music
+http://xott.live:8080/z1697502/2057961z/66203
+#EXTINF:-1 tvg-id="9xjalwa.in" tvg-name="IN | 9x Jalwa" tvg-logo="https://static.epg.best/in/9XJalwa.in.png" group-title="INDIAN | MUSIC",IN | 9x Jalwa
+http://xott.live:8080/z1697502/2057961z/66226
+#EXTINF:-1 tvg-id="" tvg-name="IN | MTV BEAT" tvg-logo="https://static.epg.best/in/MTVBeats.in.png" group-title="INDIAN | MUSIC",IN | MTV BEAT
+http://xott.live:8080/z1697502/2057961z/66273
+#EXTINF:-1 tvg-id="" tvg-name="IN | YRF MUSIC" tvg-logo="" group-title="INDIAN | MUSIC",IN | YRF MUSIC
+http://xott.live:8080/z1697502/2057961z/383530
+#EXTINF:-1 tvg-id="" tvg-name="IN | SHOWBOX MUSIC" tvg-logo="" group-title="INDIAN | MUSIC",IN | SHOWBOX MUSIC
+http://xott.live:8080/z1697502/2057961z/383529
+#EXTINF:-1 tvg-id="" tvg-name="ind-pun: Pittara TV" tvg-logo="" group-title="INDIAN | MUSIC",ind-pun: Pittara TV
+http://xott.live:8080/z1697502/2057961z/66285
+#EXTINF:-1 tvg-id="" tvg-name="IN | 9x Tashan" tvg-logo="https://static.epg.best/in/9XTashan.in.png" group-title="INDIAN | MUSIC",IN | 9x Tashan
+http://xott.live:8080/z1697502/2057961z/66289
+#EXTINF:-1 tvg-id="" tvg-name="IN: Mastii" tvg-logo="" group-title="INDIAN | MUSIC",IN: Mastii
+http://xott.live:8080/z1697502/2057961z/112988
+#EXTINF:-1 tvg-id="housefullmovies.in" tvg-name="IN: UTV Bindass" tvg-logo="" group-title="INDIAN | MUSIC",IN: UTV Bindass
+http://xott.live:8080/z1697502/2057961z/112993
+#EXTINF:-1 tvg-id="" tvg-name="IND-Punjabi: PTC MUSIC" tvg-logo="http://image3.mouthshut.com/images/imagesp/925599237s.png" group-title="INDIAN | MUSIC",IND-Punjabi: PTC MUSIC
+http://xott.live:8080/z1697502/2057961z/153373
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC INDIA" tvg-logo="" group-title="INDIAN | MUSIC",MUSIC INDIA
+http://xott.live:8080/z1697502/2057961z/190028
+#EXTINF:-1 tvg-id="" tvg-name="IN: Boogle Bollywood" tvg-logo="" group-title="INDIAN | MUSIC",IN: Boogle Bollywood
+http://xott.live:8080/z1697502/2057961z/206045
+#EXTINF:-1 tvg-id="" tvg-name="IND: MTV HD +" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/17/MTV_Idol.svg/1200px-MTV_Idol.svg.png" group-title="INDIAN | MUSIC",IND: MTV HD +
+http://xott.live:8080/z1697502/2057961z/206049
+#EXTINF:-1 tvg-id="" tvg-name="IND: MTV India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png" group-title="INDIAN | MUSIC",IND: MTV India
+http://xott.live:8080/z1697502/2057961z/206054
+#EXTINF:-1 tvg-id="" tvg-name="IND:PB: Balle Balle" tvg-logo="" group-title="INDIAN | MUSIC",IND:PB: Balle Balle
+http://xott.live:8080/z1697502/2057961z/219495
+#EXTINF:-1 tvg-id="" tvg-name="IND:PB: Wah Punjabi" tvg-logo="" group-title="INDIAN | MUSIC",IND:PB: Wah Punjabi
+http://xott.live:8080/z1697502/2057961z/219496
+#EXTINF:-1 tvg-id="" tvg-name="IND: ZING" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Zing_2011_logo.png/1200px-Zing_2011_logo.png" group-title="INDIAN | MUSIC",IND: ZING
+http://xott.live:8080/z1697502/2057961z/219497
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 18" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC",24/7 MUSIC 18
+http://xott.live:8080/z1697502/2057961z/362865
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 19" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC",24/7 MUSIC 19
+http://xott.live:8080/z1697502/2057961z/362866
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 20" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC",24/7 MUSIC 20
+http://xott.live:8080/z1697502/2057961z/362867
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 21" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC",24/7 MUSIC 21
+http://xott.live:8080/z1697502/2057961z/362868
+#EXTINF:-1 tvg-id="" tvg-name="IN: 24/7 MUSIC 01" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC",IN: 24/7 MUSIC 01
+http://xott.live:8080/z1697502/2057961z/219498
+#EXTINF:-1 tvg-id="" tvg-name="IN: 24/7 MUSIC 02" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC",IN: 24/7 MUSIC 02
+http://xott.live:8080/z1697502/2057961z/270503
+#EXTINF:-1 tvg-id="" tvg-name="IN: 24/7 MUSIC 03" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC",IN: 24/7 MUSIC 03
+http://xott.live:8080/z1697502/2057961z/270504
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 04" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC",24/7 MUSIC 04
+http://xott.live:8080/z1697502/2057961z/270505
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 05" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC",24/7 MUSIC 05
+http://xott.live:8080/z1697502/2057961z/270506
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 06" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC",24/7 MUSIC 06
+http://xott.live:8080/z1697502/2057961z/270507
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 07" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC",24/7 MUSIC 07
+http://xott.live:8080/z1697502/2057961z/270508
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 08" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC",24/7 MUSIC 08
+http://xott.live:8080/z1697502/2057961z/270509
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 09" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC",24/7 MUSIC 09
+http://xott.live:8080/z1697502/2057961z/270510
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 10" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC",24/7 MUSIC 10
+http://xott.live:8080/z1697502/2057961z/270511
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 11" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC",24/7 MUSIC 11
+http://xott.live:8080/z1697502/2057961z/270512
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 12" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC",24/7 MUSIC 12
+http://xott.live:8080/z1697502/2057961z/270513
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 13" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC",24/7 MUSIC 13
+http://xott.live:8080/z1697502/2057961z/270514
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 14" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC",24/7 MUSIC 14
+http://xott.live:8080/z1697502/2057961z/270515
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 15" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC",24/7 MUSIC 15
+http://xott.live:8080/z1697502/2057961z/270516
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 16" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC",24/7 MUSIC 16
+http://xott.live:8080/z1697502/2057961z/270517
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 17" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC",24/7 MUSIC 17
+http://xott.live:8080/z1697502/2057961z/270518
